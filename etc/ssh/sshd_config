@@ -1,0 +1,5 @@
+PermitRootLogin no
+PubkeyAuthentication yes
+AuthorizedKeysFile .ssh/authorized_keys
+#KexAlgorithms +diffie-hellman-group1-sha1
+PasswordAuthentication no
